@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# CMake build
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+# CLion
+.idea/
+
+# Local database
+*.db
+
+# Optional local scripts
+mk.sh
+
+external/
